@@ -1,1 +1,5 @@
-Seja bem-vindo(a) ao meu Primeiro Repositório!!
+# Meu Perfil
+
+## Nicole Barnack Molinari
+
+### Estudo Desenvolvimento de Sistemas
