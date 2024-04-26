@@ -4,4 +4,7 @@
 
 ### Estudo Desenvolvimento de Sistemas
 
-**Sobre Mim**
+**Sobre Mim! :)**
+  > Tenho 16 anos
+  > Estou na turma DEV-1A da Instituição de Ensino SENAI
+  
