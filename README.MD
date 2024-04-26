@@ -1,6 +1,6 @@
 # Meu Perfil
 
-## Nicole Barnack Molinari
+## Nicole B. Molinari
 
 ### Estudo Desenvolvimento de Sistemas
 
